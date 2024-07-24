@@ -1,0 +1,6 @@
+[submodule "code-editor-frontend"]
+	path = code-editor-frontend
+	url = https://github.com/MohammadOsseily/code-editor-frontend.git
+[submodule "code-editor-backend"]
+	path = code-editor-backend
+	url = https://github.com/MohammadOsseily/code-editor-backend.git
